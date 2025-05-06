@@ -1,6 +1,6 @@
 # API REST - Node.js + Express + Sequelize + JWT
 
-Este projeto é uma API REST desenvolvida com foco em autenticação e manipulação de dados, utilizando tecnologias modernas do ecossistema JavaScript.
+Este projeto é uma API REST desenvolvida para uma **escola fictícia**, onde os usuários podem se autenticar via JWT e realizar operações de CRUD (Create, Read, Update, Delete) com informações de alunos. Além disso, é possível fazer o upload da foto dos alunos para personalizar o cadastro.
 
 ## 🚀 Tecnologias Utilizadas
 
