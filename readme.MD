@@ -32,3 +32,6 @@ O projeto utiliza:
 
 - ESLint com regras definidas para garantir a qualidade e padronização do código.
 - .editorconfig para manter o estilo de formatação consistente entre diferentes editores.
+
+📌 Nota: Este é meu primeiro projeto desenvolvendo uma API REST do zero. Foi criado com o objetivo de aprendizado e prática das tecnologias envolvidas.
+
